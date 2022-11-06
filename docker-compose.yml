@@ -1,0 +1,13 @@
+version: "3.8"
+
+services:
+  app:
+    container_name: challenge-2-eduardo-escobar
+    image: challenge-2-eduardo-escobar
+    build:
+      context: .
+      target: development
+    volumes:
+      - ./src:/app/src
+    ports:
+      - 3000:3000
