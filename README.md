@@ -1,6 +1,11 @@
 # Challenge 2 SoftServe
 
-Frontend part
+# Tools/technologies used
+- Typescript
+- ReactJS
+- Bootstrap
+- Docker compose
+
 ## Available Scripts
 
 In the project directory, you can run:
